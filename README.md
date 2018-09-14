@@ -23,7 +23,7 @@ Houdini Apprentice 	v16.0.504.20
 
 # Dependencies
 
-- Houdini (free version is sufficent)
+- Houdini (free Apprentice version is sufficent)
 - Python
 - Node.js + NPM
 
