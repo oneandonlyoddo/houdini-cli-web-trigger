@@ -1,4 +1,4 @@
-#Info
+# Info
 
 This is a very minimal proof of concept of how one could trigger a houdini render with variables from a web interface served by a node.js server.
 
