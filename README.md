@@ -43,7 +43,7 @@ Additionally you need to have the houdini env Variables initialized so either [a
 #Run
 
 ```bash
-> node index.js
+> node app.js
 ```
 
 - go to _localhost:3000_ 
